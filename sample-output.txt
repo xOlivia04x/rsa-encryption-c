@@ -1,0 +1,15 @@
+Enter p and q: For p = 3 and q = 11 --> phi = 20
+  Here is e=3 such that 1 < e < phi and gcd(e, phi) = 1
+  Here is e=7 such that 1 < e < phi and gcd(e, phi) = 1
+  Here is e=9 such that 1 < e < phi and gcd(e, phi) = 1
+  Here is e=11 such that 1 < e < phi and gcd(e, phi) = 1
+  Here is e=13 such that 1 < e < phi and gcd(e, phi) = 1
+  Here is e=17 such that 1 < e < phi and gcd(e, phi) = 1
+  Here is e=19 such that 1 < e < phi and gcd(e, phi) = 1
+Select one of the above as e: Public key (e, n): (7, 33)
+Private key (d, n): (3, 33)
+
+Enter an integer between 0 and n-1 as plain text to be encrypted: Original plaintext: 30
+Encrypted ciphertext: 24
+Decrypted plaintext: 30
+

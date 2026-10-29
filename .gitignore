@@ -1,0 +1,10 @@
+# Compiled programs
+rsa
+rsa.exe
+*.o
+*.obj
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
